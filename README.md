@@ -1,7 +1,7 @@
 # hello-world
 
-GROUP 6
+GROUP 6 MEMBERS
 
-GROUP LEADER Jericho Cagayat
+Jericho Cagayat(GROUP LEADER)
 
 Derick Banzuela, Allen Cresencio, Dreico Karlo Librodo, JL Natoza, Aljaphet Sapo, Nicole Dorado
