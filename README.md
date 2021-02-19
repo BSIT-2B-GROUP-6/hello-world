@@ -2,6 +2,11 @@
 
 GROUP 6 MEMBERS
 
-Jericho Cagayat(GROUP LEADER)
+Cagayat, Jericho(GROUP LEADER)
+Banzuela, Derick
+Cresencio, Allen 
+Dorado, Nicole
+Librodo, Dreico Karlo 
+Natoza, Jhon Lord 
+Sapo, Aljaphet 
 
-Derick Banzuela, Allen Cresencio, Dreico Karlo Librodo, JL Natoza, Aljaphet Sapo, Nicole Dorado
